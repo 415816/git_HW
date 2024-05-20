@@ -1,1 +1,11 @@
+Summary: text from chat is not copied
 
+STR: 
+select text in AQA-JS-1 
+push Ctrl + C
+turn to notepad
+push Ctrl + V
+
+ER:  you can copy text from tg chat
+
+AR: you take message with error: Sorry, copying from this channel is disabled by admins 
